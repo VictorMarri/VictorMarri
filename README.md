@@ -14,6 +14,10 @@ Atualmente trabalho na [Dti](https://www.dtidigital.com.br/) como desenvolvedor 
 
 Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) como estagiário de tecnologia da informação, atuando como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Experiência com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilização de metodologias ágeis para uma maior produtividade e foco nos objetivos.
 
+### :page_facing_up: Anotações
+
+Eu anoto literalmente tudo que estudo, em todos os detalhes e passos em que entendi e implementei. Então se você viu meus projetos e ficou interessado em entender como eu fiz e entendi as coisas, pode me chamar a qualquer hora que eu adoraria ajudar de alguma forma!
+
 ## METAS PARA 2021
 
 - Deslanchar no meu estágio e conseguir uma efetivação para junior
