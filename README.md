@@ -12,7 +12,7 @@ Tenho 20 anos de idade e estou cursando Sistemas de Informação na PUC Minas, t
 
 Atualmente trabalho na [Dti](https://www.dtidigital.com.br/) como desenvolvedor estagiário.   
 
-Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) como estagiário de tecnologia da informação, atuando como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Experiência com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilização de metodologias ágeis para uma maior produtividade e foco nos objetivos.
+Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) também como desenvolvedor estagiário, atuando como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Experiência com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilização de metodologias ágeis para uma maior produtividade e foco nos objetivos.
 
 ### :page_facing_up: Anotações
 
