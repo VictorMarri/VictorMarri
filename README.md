@@ -2,7 +2,7 @@
 
 ### Olá! Meu nome é [Víctor!](https://github.com/VictorMarri)
 
-###Seja bem-vindo(a) ao meu GitHub! 👋
+### Seja bem-vindo(a) ao meu GitHub! 👋
 
 ## SOBRE MIM
 
