@@ -23,7 +23,7 @@ Eu anoto literalmente tudo que estudo, em todos os detalhes e passos em que ente
 - Deslanchar no meu estágio e conseguir uma efetivação para junior
 - Aprender mesmo que basicamente uma nova linguagem/framework
 - Colocar no meu Github ao final do ano no mínimo 25 repositorios
-- Me aperfeiçoar em C# e me aventurar em TypeScript!
+- Me aperfeiçoar em C# e me aventurar em TypeScript e NodeJS!
 
 No final do ano eu venho atualizar essa lista com check em tudo!
 
