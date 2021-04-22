@@ -8,13 +8,13 @@
 
 ### :boy: Víctor
 
-Tenho 20 anos de idade e estou cursando Sistemas de Informação na PUC Minas, trabalhando atualmente na [Dti](https://www.dtidigital.com.br/). Sou apaixonado por tecnologia, e principalmente tecnologias que envolvam C#! Aqui no meu github eu sempre posto uns projetinhos em que tenho curiosidade de aprender sobre, então, vocês vão ver projetos de coisas mais banais como um menu, ou uma aplicação pra aprender a mexer no excel via codigo, mas tambem vao ver aplicações robustas como API's REST com diferentes arquiteturas. Sou um estudante ávido, que adora ser desafiado seja a aprender uma coisa nova, ou resolver um problema!
+Tenho 20 anos de idade e estou cursando Sistemas de Informação na PUC Minas, trabalhando atualmente na [Dti](https://www.dtidigital.com.br/). Sou apaixonado por tecnologia, e principalmente tecnologias que envolvam .Net! Aqui no meu github eu sempre posto uns projetinhos em que tenho curiosidade de aprender sobre, então, vocês vão ver projetos de coisas mais banais como um menu, ou uma aplicação pra aprender a mexer no excel via codigo, mas tambem vao ver aplicações robustas como API's REST com diferentes arquiteturas. Sou um estudante ávido, que adora ser desafiado seja a aprender uma coisa nova, ou resolver um problema!
 
 ### :briefcase: Trabalho 
 
-Atualmente trabalho na [Dti](https://www.dtidigital.com.br/) como desenvolvedor estagiário.   
+Atualmente trabalho na [Dti](https://www.dtidigital.com.br/) como desenvolvedor .Net e React.   
 
-Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) também como desenvolvedor estagiário, atuando como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Experiência com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilização de metodologias ágeis para uma maior produtividade e foco nos objetivos.
+Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) como desenvolvedor estagiário, atuando como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Experiência com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilização de metodologias ágeis para uma maior produtividade e foco nos objetivos.
 
 ### :page_facing_up: Anotações
 
