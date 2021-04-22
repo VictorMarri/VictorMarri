@@ -1,6 +1,6 @@
 ## APRESENTAÇÃO
 
-### Olá! Meu nome é [Víctor!](https://github.com/VictorMarri)
+### Olá! Meu nome é [Víctor!](https://www.linkedin.com/in/victormarri/)
 
 ### Seja bem-vindo(a) ao meu GitHub! 👋
 
@@ -8,7 +8,7 @@
 
 ### :boy: Víctor
 
-Tenho 20 anos de idade e estou cursando Sistemas de Informação na PUC Minas, trabalhando atualmente na [Dti](https://www.dtidigital.com.br/). Sou apaixonado por tecnologia, e principalmente tecnologias que envolvam .Net! Aqui no meu github eu sempre posto uns projetinhos em que tenho curiosidade de aprender sobre, então, vocês vão ver projetos de coisas mais banais como um menu, ou uma aplicação pra aprender a mexer no excel via codigo, mas tambem vao ver aplicações robustas como API's REST com diferentes arquiteturas. Sou um estudante ávido, que adora ser desafiado seja a aprender uma coisa nova, ou resolver um problema!
+Tenho 20 anos de idade e estou cursando Sistemas de Informação na PUC Minas, trabalhando atualmente na [Dti](https://www.dtidigital.com.br/). Sou apaixonado por tecnologia, e principalmente tecnologias que envolvam .Net! Aqui no meu github eu sempre posto uns projetinhos em que tenho curiosidade de aprender sobre, então, vocês vão ver projetos de coisas mais banais como um menu, ou uma aplicação pra aprender a mexer no excel via codigo, mas tambem vao ver aplicações robustas como API's REST e GraphQL, com diferentes arquiteturas. Sou um estudante ávido, que adora ser desafiado seja a aprender uma coisa nova, ou resolver um problema!
 
 ### :briefcase: Trabalho 
 
