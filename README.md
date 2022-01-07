@@ -20,15 +20,6 @@ Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) como desenvolvedor e
 
 Eu anoto literalmente tudo que estudo, em todos os detalhes e passos em que entendi e implementei. Então se você viu meus projetos e ficou interessado em entender como eu fiz e entendi as coisas, pode me chamar a qualquer hora que eu adoraria ajudar de alguma forma!
 
-## METAS PARA 2021
-
-- Deslanchar no meu estágio e conseguir uma efetivação para junior
-- Aprender mesmo que basicamente uma nova linguagem/framework
-- Colocar no meu Github ao final do ano no mínimo 25 repositorios
-- Me aperfeiçoar em C# e me aventurar em JavaScript, TypeScript e NodeJS!
-
-No final do ano eu venho atualizar essa lista com check em tudo!
-
 ## :globe_with_meridians: LINKS PARA CONTATO
 
 [![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/VictorMarri)  
