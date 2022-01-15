@@ -1,29 +1,39 @@
-## APRESENTAÇÃO
+<div>
+  <h1 align="center">Olá! Meu nome é <a href="https://www.linkedin.com/in/victormarri/"><i>Víctor!</i></a></h1>
+  <p align="center">Estudante de Sistemas na PUC e apaixonado por desenvolvimento!
+  </a><br>
+</div>
 
-### Olá! Meu nome é [Víctor!](https://www.linkedin.com/in/victormarri/)
+<div align="center">
+  <a href="https://github.com/VictorMarri">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorMarri&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMarri&theme=dracula&hide_border=false&&layout=compact"/>
+  </a>
+</div>
 
-### Seja bem-vindo(a) ao meu GitHub! 👋
+<div align="center" valign="top"><br>
+  <img align="center" alt=".NET" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
+  <img align="center" alt="GraphQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+</div><br>
 
-## SOBRE MIM
+<div align="center">
+  <!-- <a href="https://www.facebook.com/pr.eduardoribeiro" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>  -->
+  <a href="https://www.linkedin.com/in/victormarri/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:victorpujoni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
 
-### :boy: Víctor
-
-Tenho 21 anos de idade e estou cursando Sistemas de Informação na PUC Minas, trabalhando atualmente na [Dti](https://www.dtidigital.com.br/). Sou apaixonado por tecnologia, e principalmente tecnologias que envolvam .Net! Aqui no meu github eu sempre posto uns projetinhos em que tenho curiosidade de aprender sobre, então, vocês vão ver projetos de coisas mais banais como um menu, ou uma aplicação pra aprender a mexer no excel via codigo, mas tambem vao ver aplicações robustas como API's REST e GraphQL, com diferentes arquiteturas. Sou um estudante ávido, que adora ser desafiado seja a aprender uma coisa nova, ou resolver um problema!
-
-### :briefcase: Trabalho 
-
-Atualmente trabalho na [Dti](https://www.dtidigital.com.br/) como desenvolvedor .Net e React.   
-
-Trabalhei na [Vers Contabilidade](https://www.vers.com.br/) como desenvolvedor estagiário, atuando como desenvolvedor ASP.NET Core e C# :computer: criando aplicações para integração de sistemas com Web API's e solucionando problemas com diversas tecnologias. Experiência com tecnologias Microsoft, de plataformas para computação em nuvem como Azure à plataformas devops para integração e entrega contínua como Azure DevOps. Utilização de metodologias ágeis para uma maior produtividade e foco nos objetivos.
-
-### :page_facing_up: Anotações
-
-Eu anoto literalmente tudo que estudo, em todos os detalhes e passos em que entendi e implementei. Então se você viu meus projetos e ficou interessado em entender como eu fiz e entendi as coisas, pode me chamar a qualquer hora que eu adoraria ajudar de alguma forma!
-
-## :globe_with_meridians: LINKS PARA CONTATO
-
-[![Github](https://img.shields.io/badge/github-profile-%237159c1?style=for-the-badge&logo=github)](https://github.com/VictorMarri)  
-[![Linkedin](https://img.shields.io/badge/linkedin-social-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/victormarri/)  
-[![Email](https://img.shields.io/badge/email-contact-%23D14836?style=for-the-badge&logo=gmail)](mailto:victorpujoni@gmail.com)  
-[![DTI](https://img.shields.io/badge/Dti-job-%233776AB?style=for-the-badge&logo=v)](https://www.dtidigital.com.br/)  
+<div align="center">
+  
+  ![Snake animation](https://github.com/VictorMarri/VictorMarri/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
 
