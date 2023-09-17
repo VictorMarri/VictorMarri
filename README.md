@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Olá! Meu nome é <a href="https://www.linkedin.com/in/victormarri/"><i>Víctor</i></a>, e seja bem vindo ao meu GitHub!</h1>
-  <p align="center">Estudante de Sistemas na PUC e apaixonado por desenvolvimento!
+  <p align="center">Graduado em Sistemas pela PUC Minas e apaixonado por desenvolvimento!
      Gosto de colocar tudo que aprendo em prática, e transformo todas as minhas anotações em artigos que estão nos README's dos meus projetos, incluindo as fontes de onde busquei as informações! 
   </a><br>
 </div>
