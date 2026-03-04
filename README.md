@@ -20,7 +20,7 @@
 
 ### 👋 Olá, mundo!
 
-Sou **Víctor Marri** — desenvolvedor Back-End formado em **Sistemas de Informação pela PUC Minas**.
+Sou **Víctor Marri** — desenvolvedor Back-End formado em **Sistemas de Informação pela PUC Minas** e atualmente cursando **Engenharia de Software e Arquitetura de software**.
 
 Acredito que o código mais valioso é aquele que você entende, documenta e compartilha. Por isso, tudo que aprendo vira artigo nos READMEs dos meus projetos — com fontes, contexto e raciocínio.
 
