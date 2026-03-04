@@ -1,87 +1,79 @@
 <div align="center">
 
 ```
-██╗   ██╗██╗ ██████╗████████╗ ██████╗ ██████╗
-██║   ██║██║██╔════╝╚══██╔══╝██╔═══██╗██╔══██╗
-██║   ██║██║██║        ██║   ██║   ██║██████╔╝
-╚██╗ ██╔╝██║██║        ██║   ██║   ██║██╔══██╗
- ╚████╔╝ ██║╚██████╗   ██║   ╚██████╔╝██║  ██║
-  ╚═══╝  ╚═╝ ╚═════╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
-                                          MARRI
+ victor marri
+ back-end developer
 ```
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Back-End+Developer+%F0%9F%9A%80;Go+%7C+.NET+%7C+Ruby+%7C+GraphQL;PUC+Minas+%E2%80%94+Sistemas+de+Informa%C3%A7%C3%A3o;Transformando+c%C3%B3digo+em+conhecimento+%F0%9F%93%9D)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=435&lines=go+%C2%B7+.net+%C2%B7+ruby+%C2%B7+graphql;clean+code+%C2%B7+clean+docs+%C2%B7+clean+thinking)](https://git.io/typing-svg)
 
 </div>
 
+```go
+type Developer struct {
+    Name     string   `json:"name"`
+    Focus    string   `json:"focus"`
+    Stack    []string `json:"stack"`
+    Learning []string `json:"learning"`
+    Motto    string   `json:"motto"`
+}
+
+me := Developer{
+    Name:     "Víctor Marri",
+    Focus:    "Back-End Engineering",
+    Stack:    []string{"Go", ".NET", "Ruby", "GraphQL", "REST"},
+    Learning: []string{"Engenharia de Software", "Arquitetura de Software"},
+    Motto:    "Não basta funcionar. É preciso entender por quê.",
+}
+```
+
 ---
 
-<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding gif"/>
+<table>
+<tr>
+<td width="50%">
 
-### 👋 Olá, mundo!
+**sobre**
 
-Sou **Víctor Marri** — desenvolvedor Back-End formado em **Sistemas de Informação pela PUC Minas** e atualmente cursando **Engenharia de Software e Arquitetura de software**.
+- 🎓 &nbsp; Sistemas de Informação — PUC Minas  
+- 📐 &nbsp; Cursando Eng. de Software & Arquitetura  
+- 📝 &nbsp; Cada projeto tem README com contexto e referências  
+- ⚡ &nbsp; Código bom é código que se explica  
 
-Acredito que o código mais valioso é aquele que você entende, documenta e compartilha. Por isso, tudo que aprendo vira artigo nos READMEs dos meus projetos — com fontes, contexto e raciocínio.
+</td>
+<td width="50%">
 
-> *"Não basta fazer funcionar. É preciso entender por quê funciona."*
+**stack**
 
-<br clear="right"/>
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST](https://img.shields.io/badge/REST-009688?style=flat-square)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 ---
-
-### 🛠️ Arsenal Técnico
 
 <div align="center">
-
-| Linguagens | Infra & Ferramentas | Paradigmas |
-|:---:|:---:|:---:|
-| ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white) | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) | ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) ![REST](https://img.shields.io/badge/REST-API-009688?style=flat-square) |
-
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorMarri&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&hide_title=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMarri&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact&hide_title=true"/>
 </div>
 
----
-
-### 📊 GitHub em Números
-
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=VictorMarri&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMarri&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorMarri&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="150em"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorMarri&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" alt="streak stats"/>
-</div>
-
----
-
-### 📈 Atividade
+<br>
 
 <div align="center">
 
-[![Victor's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorMarri&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-### 🐍 Contribuições
-
-<div align="center">
-
-![Snake animation](https://github.com/VictorMarri/VictorMarri/blob/output/github-contribution-grid-snake.svg)
-
-</div>
-
----
-
-### 🤝 Vamos Conectar?
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormarri/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victorpujoni@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VictorMarri)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorMarri&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&height=250)](https://github.com/VictorMarri)
 
 </div>
 
@@ -89,8 +81,14 @@ Acredito que o código mais valioso é aquele que você entende, documenta e com
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=VictorMarri&color=7C3AED&style=flat-square&label=Visitas+ao+Perfil)
+[![LinkedIn](https://img.shields.io/badge/-victormarri-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victormarri/)
+[![Gmail](https://img.shields.io/badge/-victorpujoni@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:victorpujoni@gmail.com)
+[![GitHub](https://img.shields.io/badge/-VictorMarri-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/VictorMarri)
 
-*✍️ Cada projeto tem um README com anotações, referências e contexto — porque bom código merece boa documentação.*
+<br>
+
+![](https://komarev.com/ghpvc/?username=VictorMarri&color=7C3AED&style=flat-square&label=views)
+
+<sub>*bom código merece boa documentação.*</sub>
 
 </div>
