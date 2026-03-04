@@ -9,22 +9,15 @@
 
 </div>
 
-```go
-type Developer struct {
-    Name     string   `json:"name"`
-    Focus    string   `json:"focus"`
-    Stack    []string `json:"stack"`
-    Learning []string `json:"learning"`
-    Motto    string   `json:"motto"`
-}
-
-me := Developer{
-    Name:     "Víctor Marri",
-    Focus:    "Back-End Engineering",
-    Stack:    []string{"Go", ".NET", "Ruby", "GraphQL", "REST"},
-    Learning: []string{"Engenharia de Software", "Arquitetura de Software"},
-    Motto:    "Não basta funcionar. É preciso entender por quê.",
-}
+```csharp
+var me = new Developer
+{
+    Name     = "Víctor Marri",
+    Focus    = "Back-End Engineering",
+    Stack    = ["C#", ".NET", "Ruby", "Go", "GraphQL", "REST"],
+    Learning = ["Engenharia de Software", "Arquitetura de Software"],
+    Motto    = "Não basta funcionar. É preciso entender por quê."
+};
 ```
 
 ---
