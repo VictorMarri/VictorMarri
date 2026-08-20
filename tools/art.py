@@ -1,7 +1,7 @@
 """Gera a arte ASCII (matriz de (char, cor)) usada no painel esquerdo do card."""
 import math
 
-COLS, ROWS = 38, 23          # grade util a esquerda do painel de texto
+COLS, ROWS = 38, 24          # grade util a esquerda do painel de texto
 CW, CH = 9.6, 20.0           # largura/altura aproximada de um caractere Consolas 16px
 SHADES = [(0.12, ' '), (0.38, '░'), (0.62, '▒'), (0.86, '▓'), (1.01, '█')]
 

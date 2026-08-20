@@ -11,6 +11,7 @@ PROFILE = {
         ("Kernel", "Back-End Developer"),
         ("IDE", "VS Code, Visual Studio, Claude Code"),
         ("Education", "Sistemas de Informação - PUC Minas"),
+        ("Education.Postgrad", "Eng. de Software & Arquitetura"),
         (None, None),
         ("Languages.Programming", "C#, Ruby, Go"),
         ("Languages.Computer", "GraphQL, REST, SQL, JSON, YAML"),
