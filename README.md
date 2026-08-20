@@ -54,20 +54,12 @@ var me = new Developer
 ---
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorMarri&count_private=true&include_all_commits=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&hide_title=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMarri&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&layout=compact&hide_title=true"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VictorMarri&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA" height="150em"/>
-</div>
-
-<br>
-
-<div align="center">
-
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VictorMarri&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&hide_border=true&height=250)](https://github.com/VictorMarri)
-
+  <a href="https://github.com/VictorMarri/VictorMarri">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VictorMarri/VictorMarri/master/dark_mode.svg">
+      <img alt="Estatisticas do perfil de Victor Marri" src="https://raw.githubusercontent.com/VictorMarri/VictorMarri/master/light_mode.svg">
+    </picture>
+  </a>
 </div>
 
 ---
