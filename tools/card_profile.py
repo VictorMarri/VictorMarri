@@ -20,7 +20,7 @@ PROFILE = {
     ],
     "contacts": [
         ("Email.Personal", "victorpujoni@gmail.com"),
-        ("LinkedIn", "victormarri"),
-        ("GitHub", "VictorMarri"),
+        ("LinkedIn", "https://www.linkedin.com/in/victormarri/"),
+        ("GitHub", "https://github.com/VictorMarri"),
     ],
 }
