@@ -3,7 +3,7 @@ import math
 
 COLS, ROWS = 38, 24          # grade util a esquerda do painel de texto
 CW, CH = 9.6, 20.0           # largura/altura aproximada de um caractere Consolas 16px
-SHADES = [(0.12, ' '), (0.38, '░'), (0.62, '▒'), (0.86, '▓'), (1.01, '█')]
+SHADES = [(0.12, ' '), (0.38, '.'), (0.62, ':'), (0.86, '+'), (1.01, '#')]
 
 
 def shade(coverage):
@@ -40,51 +40,22 @@ def draw_pacman(grid, cx, cy, r, mouth_deg=38, color='pac'):
                 grid[row][col] = (char, color)
 
 
-GHOST = [
-    "  ▄████▄  ",
-    " ████████ ",
-    "██████████",
-    "██████████",
-    "██████████",
-    "█▀▀█▀▀█▀▀█",
-]
-GHOST_EYES = {(2, 2), (2, 3), (2, 6), (2, 7)}      # branco do olho
-GHOST_PUPILS = {(3, 2), (3, 3), (3, 6), (3, 7)}    # pupila
-
-
-def draw_ghost(grid, top, left, color='ghost'):
-    for r, line in enumerate(GHOST):
-        for c, char in enumerate(line):
-            if char == ' ':
-                continue
-            row, col = top + r, left + c
-            if 0 <= row < ROWS and 0 <= col < COLS:
-                if (r, c) in GHOST_EYES:
-                    tone = 'eye'
-                elif (r, c) in GHOST_PUPILS:
-                    tone = 'pupil'
-                else:
-                    tone = color
-                grid[row][col] = (char, tone)
-
-
 def draw_pellets(grid, row, cols, color='pellet'):
     for col in cols:
         if 0 <= row < ROWS and 0 <= col < COLS:
-            grid[row][col] = ('●', color)
+            grid[row][col] = ('o', color)
 
 
-def build():
+MOUTH_FRAMES = [4, 18, 32, 46, 32, 18]   # ciclo de abrir e fechar a boca
+
+
+def build(mouth_deg=32):
     grid = blank()
-    draw_pacman(grid, cx=13.9 * CW, cy=7.5 * CH, r=6.5 * CH, mouth_deg=42)
-    draw_pellets(grid, 7, [29, 32, 35])
-    draw_pellets(grid, 14, list(range(2, 37, 3)))
-    draw_ghost(grid, top=17, left=3, color='ghost')
-    draw_ghost(grid, top=17, left=16, color='ghost2')
-    draw_pellets(grid, 19, [29, 32, 35])
+    draw_pacman(grid, cx=13.9 * CW, cy=11.5 * CH, r=6.5 * CH, mouth_deg=mouth_deg)
+    draw_pellets(grid, 11, [29, 32, 35])
     return grid
 
 
 if __name__ == '__main__':
-    for line in build():
+    for line in build(46):
         print(''.join(ch for ch, _ in line).rstrip())

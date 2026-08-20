@@ -21,7 +21,7 @@ for text in doc.getElementsByTagName("text"):
         lines.append(cur)
     blocks.append(lines)
 
-left, right = blocks[0], blocks[1]
+left, right = blocks[0], blocks[-1]   # 1o quadro da arte + painel
 for i in range(max(len(left), len(right))):
     l = left[i] if i < len(left) else ""
     r = right[i] if i < len(right) else ""
