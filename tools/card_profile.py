@@ -1,8 +1,7 @@
 """Dados fixos do card. Edite aqui e rode `python tools/make_svg.py`."""
 
 PROFILE = {
-    "user": "victor",
-    "host": "marri",
+    "title": "Victor Marri",
     "birthday": (2000, 7, 4),
     "fields": [
         ("OS", "Windows 11 Pro, Ubuntu (WSL2)"),

@@ -74,8 +74,8 @@ def rule(label=None):
 
 def panel_rows():
     """Devolve uma lista de 'linhas', cada uma sendo uma lista de parts (ou None)."""
-    rows = [[(f"{PROFILE['user']}@{PROFILE['host']}", None, None)]]
-    title_len = len(PROFILE["user"]) + len(PROFILE["host"]) + 1
+    rows = [[(PROFILE["title"], None, None)]]
+    title_len = len(PROFILE["title"])
     rows[0].append((" -" + "\u2014" * (PANEL_COLS - title_len - 6) + "-\u2014-", None, None))
 
     for key, value in PROFILE["fields"]:
