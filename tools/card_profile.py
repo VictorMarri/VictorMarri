@@ -16,7 +16,7 @@ PROFILE = {
         ("Languages.Computer", "GraphQL, REST, SQL, JSON, YAML"),
         ("Languages.Real", "Português, Inglês"),
         (None, None),
-        ("Hobbies", "Leitura, Programação, Futebol"),
+        ("Hobbies", "Leitura (Reading), Programação(Programming), Futebol(Football)"),
     ],
     "contacts": [
         ("Email.Personal", "victorpujoni@gmail.com"),
